@@ -1,4 +1,4 @@
-package paketA;
+import paketA.Mobil;
 
 public class TestMobil {
     public static void main(String[] args) {
